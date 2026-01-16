@@ -11,10 +11,6 @@ function Hero() {
             </div>
 
             <div className="container hero-content">
-                <div className="hero-badge">
-                    <span className="badge badge-primary">Final Year Capstone Project</span>
-                </div>
-
                 <h1 className="hero-title">
                     Development of a Multi-Phase Compiler
                     <br />
